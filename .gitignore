@@ -67,3 +67,7 @@ crashlytics-build.properties
 Houdini/backup/
 
 Recordings/
+
+Houdini/SignedDistance.vf
+
+Houdini/SignedGradient.vf
