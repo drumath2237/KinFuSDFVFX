@@ -37,7 +37,7 @@ KinectFusionを使ってスキャンしたデータをHoudiniでSigned Distance 
 ### Unity
 
 `/Assets/KinFuSDFVFX/VFXAssets`内にpcacheおよびvfファイルを置いてあります。
-それらを読み込んでスキャンデータに貼って動くようなVFXのサンプルを同梱してあります。
+スキャンデータに這って動くようなVFXのサンプルを同梱してあります。
 
 ![img](./Documents/img/vfx.png)
 
